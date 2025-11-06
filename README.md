@@ -35,6 +35,7 @@ São realizadas agregações, cálculos e junções entre as tabelas, resultando
 
 ### ⚙️ Estrutura do Repositório
 
+```text
 projeto-final/
 │
 ├── notebooks/
@@ -51,6 +52,7 @@ projeto-final/
 │   └── dashboard_powerbi.pbix       # Dashboard interativo no Power BI
 │
 └── README.md                        # Documentação principal
+```
 
 ### 🧠 Tecnologias Utilizadas
 - Python (PySpark e Pandas) → tratamento e transformação de dados
