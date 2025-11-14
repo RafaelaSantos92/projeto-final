@@ -52,6 +52,8 @@ projeto-final/
 │   └── dashboard_powerbi.pbix       # Dashboard interativo no Power BI
 │
 └── README.md                        # Documentação principal
+│
+└── Relatorio_Tecnico_Panorama_EJA_Maryllian_Rafaela.pdf  #Relatório Técnico
 ```
 
 ### 🧠 Tecnologias Utilizadas
